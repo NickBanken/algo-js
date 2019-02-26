@@ -12,6 +12,9 @@ if((min>max)){
         if ((current>min)&&(current<max)){
         console.log("We are in the middle!");
         }
+        else if((current< min)||(current>max)){
+            console.log("This is just wrong...");
+        }
     }
 
 
