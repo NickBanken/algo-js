@@ -1,0 +1,1 @@
+var animals = { 'cat': 'meow', 'dog': 'woof', 'cow': 'moo', 'sheep': 'baaah', 'bird': 'tweet' }; console.log(animals[Object.keys(animals)[0]]); console.log(animals[Object.keys(animals)[Math.floor(Math.random()Object.keys(animals).length)]]); console.log(Object.keys(animals)[Math.floor(Math.random()Object.keys(animals).length)]);
