@@ -12,4 +12,6 @@ At the end of the training we will have mastered the following aspects :
 * Objects
 * Classes
 
+___
+
 https://github.com/becodeorg/GNK-Holberton-1.9/tree/master/2-De-helling/02-Javascript/js-basics-algo
